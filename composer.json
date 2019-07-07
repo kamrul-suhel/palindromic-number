@@ -1,0 +1,13 @@
+{
+    "name": "kamrulahmed/palindomic",
+    "authors": [
+        {
+            "name": "kamrul",
+            "email": "kamrul_sscis@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "App/"}
+    }
+}
